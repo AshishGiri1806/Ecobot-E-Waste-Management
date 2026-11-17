@@ -1,0 +1,7 @@
+{
+  "name": "Copy of E-Waste EcoBot",
+  "description": "An intelligent chatbot that helps you manage electronic waste responsibly. Get recommendations for recycling centers, DIY repair suggestions, and information on e-waste laws by simply chatting or uploading a photo of your item.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

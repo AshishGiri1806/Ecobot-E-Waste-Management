@@ -1,0 +1,22 @@
+[
+  {
+    "query": "What is e-waste?",
+    "expected": "E-waste, or electronic waste, refers to discarded electrical or electronic devices. It encompasses a wide range of items that have reached the end of their useful life and are no longer wanted.\n*   Includes computers, mobile phones, televisions, and household appliances.\n*   Contains valuable materials like gold and copper, as well as hazardous substances such as lead, mercury, and cadmium.\n*   Requires proper management due to its environmental and health risks.\nSafety Information: Do not dispose of e-waste in regular household trash, as harmful chemicals can leach into the environment and pose health risks. Avoid dismantling devices without proper training and protective gear.\nActionable Next Steps: Locate certified e-waste recyclers or authorized collection centers in your area for responsible disposal. Check local government websites for specific guidelines and drop-off locations."
+  },
+  {
+    "query": "How to recycle old phones?",
+    "expected": "To recycle an old phone, you must first back up and factory reset the device to completely wipe all personal data. Once the data is secure, the phone should be delivered to authorized e-waste collection centers or manufacturer take-back programs. For safety, never dismantle the phone, especially the battery. Following these steps guarantees safe data disposal and allows for the recovery of valuable materials, contributing to resource conservation."
+  },
+  {
+    "query": "What are the environmental impacts of improper e-waste disposal?",
+    "expected": "Improper disposal of e-waste leads to severe environmental pollution and resource depletion.\n\nHazardous substances like lead, mercury, and cadmium contaminate the soil and seep into groundwater, polluting water sources and aquatic life. When e-waste is burned, it releases toxic fumes (including dioxins) into the air, causing respiratory issues. This mismanagement also leads to the loss of valuable raw materials, increasing the demand for new, virgin resources.\n\nTo ensure safety, never burn or break open electronic devices, and do not place them in regular trash. The actionable solution is to utilize certified e-waste recycling facilities and always wipe personal data from devices before disposal."
+  },
+  {
+    "query": "Where can I find recycling centers in India?",
+    "expected": "The core information provided is a list of authorized e-waste recycling centers primarily located in and around Pune, Maharashtra.\n\nThe context emphasizes that the best way to find recycling centers is to consult official government sources (like the CPCB) or local municipal bodies. The list serves as a practical resource for individuals near Pune, providing the names and addresses of various certified recyclers such as Green Enviro Management Solutions LLP, AG Enterprises, Pune Greens, and Mahalaxmi E-Recyclers Pvt. Ltd."
+  },
+  {
+    "query": "What are the rules for e-waste management in India?",
+    "expected": "India's e-waste management is governed by the E-Waste (Management) Rules, 2016, which mandate environmentally sound management throughout the lifecycle of IT assets from acquisition to disposal, as supported by the provided guidelines. These rules aim to ensure proper handling and disposal to prevent environmental and health hazards. Based on the provided references, which mention managing the lifecycle of IT assets conforming to sound environmental norms and dealing with IT vendors having sound e-waste management processes, and supplementing with common knowledge, the rules primarily focus on producer responsibility and proper disposal channels."
+  }
+]

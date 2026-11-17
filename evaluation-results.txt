@@ -1,0 +1,75 @@
+Chatbot Evaluation Results
+
+Total Queries: 5
+Average Similarity Score: 0.54
+Average Fluency (Good %): 100.00%
+
+Query 1: What is e-waste?
+Expected: E-waste, or electronic waste, refers to discarded electrical or electronic devices. It encompasses a wide range of items that have reached the end of their useful life and are no longer wanted.
+*   Includes computers, mobile phones, televisions, and household appliances.
+*   Contains valuable materials like gold and copper, as well as hazardous substances such as lead, mercury, and cadmium.
+*   Requires proper management due to its environmental and health risks.
+Safety Information: Do not dispose of e-waste in regular household trash, as harmful chemicals can leach into the environment and pose health risks. Avoid dismantling devices without proper training and protective gear.
+Actionable Next Steps: Locate certified e-waste recyclers or authorized collection centers in your area for responsible disposal. Check local government websites for specific guidelines and drop-off locations.
+Response: E-waste, or electronic waste, refers to discarded electrical or electronic devices. It encompasses a wide range of items, from consumer electronics to large household appliances, that are no longer wanted or functional.<ul><li>Includes obsolete electronics such as computers, mobile phones, televisions, and refrigerators.</li><li>Contains hazardous materials like lead, mercury, and cadmium, which can harm human health and the environment if not properly managed.</li><li>Valuable materials such as gold, silver, and copper can be recovered through proper recycling.</li></ul>When handling e-waste, avoid breaking devices open to prevent exposure to harmful substances. Do not dispose of e-waste in general trash. For actionable next steps, locate certified e-waste recycling centers or collection points in your area, or participate in manufacturer take-back programs.
+Similarity Score: 0.75
+Fluency: Good (Words: 132, Sentences: 8)
+
+Query 2: How to recycle old phones?
+Expected: To recycle an old phone, you must first back up and factory reset the device to completely wipe all personal data. Once the data is secure, the phone should be delivered to authorized e-waste collection centers or manufacturer take-back programs. For safety, never dismantle the phone, especially the battery. Following these steps guarantees safe data disposal and allows for the recovery of valuable materials, contributing to resource conservation.
+Response: To recycle old phones, ensure all personal data is removed, and then utilize certified e-waste recycling programs, manufacturer take-back initiatives, or authorized retail collection points. This ensures proper handling of hazardous materials and recovery of valuable components.
+*   **Data Wiping:** Before recycling, perform a factory reset and securely wipe all personal data from the device.
+*   **Remove Peripherals:** Take out SIM cards, SD cards, and any custom cases or accessories.
+*   **Certified Recyclers:** Locate R2 or e-Stewards certified recycling facilities, or check with phone manufacturers and major electronics retailers for their take-back programs.
+*   **Donation/Trade-in:** If the phone is still functional, consider donating it to a charity or trading it in for store credit.
+**Safety Information:**
+*   Never dispose of phones in regular household trash, as batteries contain hazardous chemicals that can harm the environment.
+*   Do not attempt to dismantle the phone or remove the battery yourself unless specifically instructed by a professional, as this can be dangerous.
+*   Always verify that your data is completely erased to prevent identity theft.
+**Actionable Next Steps:**
+*   Backup any important data from your phone to a cloud service or another device.
+*   Perform a factory reset and then ensure all data is securely wiped (some phones offer a 'destroy data' option after reset).
+*   Search online for 'e-waste recycling near me' or check the websites of your phone's manufacturer or major electronics retailers for their recycling options.
+*   Drop off your old phone at an authorized collection point.
+Similarity Score: 0.40
+Fluency: Good (Words: 244, Sentences: 13)
+
+Query 3: What are the environmental impacts of improper e-waste disposal?
+Expected: Improper disposal of e-waste leads to severe environmental pollution and resource depletion.
+
+Hazardous substances like lead, mercury, and cadmium contaminate the soil and seep into groundwater, polluting water sources and aquatic life. When e-waste is burned, it releases toxic fumes (including dioxins) into the air, causing respiratory issues. This mismanagement also leads to the loss of valuable raw materials, increasing the demand for new, virgin resources.
+
+To ensure safety, never burn or break open electronic devices, and do not place them in regular trash. The actionable solution is to utilize certified e-waste recycling facilities and always wipe personal data from devices before disposal.
+Response: Improper e-waste disposal severely harms the environment by releasing toxic substances, polluting natural resources, and contributing to resource depletion. This practice poses significant risks to ecosystems and human health. Key points:<ul><li><b>Soil and Water Contamination:</b> Heavy metals like lead, mercury, and cadmium from electronics leach into soil and groundwater, affecting ecosystems and drinking water.</li><li><b>Air Pollution:</b> Burning e-waste releases harmful dioxins, furans, and other pollutants into the atmosphere.</li><li><b>Resource Depletion:</b> Discarding functional or recyclable electronics means losing valuable raw materials like gold, silver, copper, and rare earth elements, increasing the need for new mining.</li><li><b>Biodiversity Loss:</b> Contaminants can damage habitats and reduce biodiversity in affected areas.</li></ul>Essential safety information:<ul><li>Never burn e-waste or dispose of it in regular landfills due to the hazardous materials it contains.</li><li>Avoid direct contact with damaged electronics, especially batteries, to prevent exposure to toxic chemicals.</li></ul>Actionable next steps:<ul><li>Locate certified e-waste recycling centers or collection points in your area.</li><li>Participate in take-back programs offered by electronics manufacturers or retailers.</li><li>Consider donating or selling still-functional electronics to extend their lifespan.
+Similarity Score: 0.57
+Fluency: Good (Words: 210, Sentences: 11)
+
+Query 4: Where can I find recycling centers in India?
+Expected: The core information provided is a list of authorized e-waste recycling centers primarily located in and around Pune, Maharashtra.
+
+The context emphasizes that the best way to find recycling centers is to consult official government sources (like the CPCB) or local municipal bodies. The list serves as a practical resource for individuals near Pune, providing the names and addresses of various certified recyclers such as Green Enviro Management Solutions LLP, AG Enterprises, Pune Greens, and Mahalaxmi E-Recyclers Pvt. Ltd.
+Response: In India, you can find e-waste recycling centers through authorized government lists, manufacturer take-back programs, and certified private recyclers. These options ensure proper and responsible disposal of electronic waste.
+Similarity Score: 0.49
+Fluency: Good (Words: 31, Sentences: 2)
+
+Query 5: What are the rules for e-waste management in India?
+Expected: India's e-waste management is governed by the E-Waste (Management) Rules, 2016, which mandate environmentally sound management throughout the lifecycle of IT assets from acquisition to disposal, as supported by the provided guidelines. These rules aim to ensure proper handling and disposal to prevent environmental and health hazards. Based on the provided references, which mention managing the lifecycle of IT assets conforming to sound environmental norms and dealing with IT vendors having sound e-waste management processes, and supplementing with common knowledge, the rules primarily focus on producer responsibility and proper disposal channels.
+Response: India's e-waste management is primarily governed by the E-Waste (Management) Rules, 2016, which emphasize Extended Producer Responsibility (EPR) and environmentally sound processing. The rules mandate safe collection, channelization, and recycling of electronic waste to mitigate environmental and health hazards. Key aspects include:
+
+*   **Extended Producer Responsibility (EPR):** Producers are legally responsible for managing the end-of-life of their electronic products, including collection and recycling targets.
+*   **Authorized Entities:** Only entities registered with the Central Pollution Control Board (CPCB) or State Pollution Control Boards (SPCBs) are permitted to collect, dismantle, or recycle e-waste.
+*   **Consumer Responsibility:** Consumers are obligated to dispose of e-waste only through authorized channels, such as producer take-back systems, collection centers, or recyclers.
+*   **Hazardous Substances Restriction:** The rules specify limits for hazardous substances in electrical and electronic equipment (RoHS compliance).
+
+**Essential Safety Information:**
+*   Never dispose of e-waste in regular household trash to prevent toxic chemicals from leaching into the environment.
+*   Avoid dismantling e-waste yourself due to potential exposure to heavy metals (e.g., lead, mercury, cadmium) and other harmful substances.
+*   Handle e-waste carefully to prevent damage that could release hazardous materials.
+
+**Actionable Next Steps:**
+*   Locate authorized collection centers, take-back programs offered by producers, or municipal e-waste drop-off points in your area.
+*   Check the CPCB website for a list of registered dismantlers and recyclers.
+*   For bulk e-waste, coordinate directly with authorized recyclers for pick-up.
+Similarity Score: 0.49
+Fluency: Good (Words: 237, Sentences: 14)
+
